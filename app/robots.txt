@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://videobokeppelajar.pages.dev/sitemap.xml
